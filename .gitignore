@@ -1,0 +1,53 @@
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+env/
+ENV/
+.env/
+venv*/
+env*/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Scrapy
+.scrapy/
+
+# Logs
+*.log
+logs/
+
+# Data
+products_data/
+*.json
+*.csv
+*.xlsx
+output/
