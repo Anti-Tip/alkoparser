@@ -1,0 +1,297 @@
+[
+{
+  "uuid": "a0d7665a-46af-11e7-83ff-00155d026416",
+  "name": "Абинск",
+  "slug": "abinsk"
+},
+{
+  "uuid": "f9919d0a-5935-11ea-8102-00155d05c408",
+  "name": "Азов",
+  "slug": "azov"
+},
+{
+  "uuid": "2dd7cbfa-46af-11e7-83ff-00155d026416",
+  "name": "Анапа",
+  "slug": "anapa"
+},
+{
+  "uuid": "70c5443c-46b2-11e7-83ff-00155d026416",
+  "name": "Апшеронск",
+  "slug": "apsheronsk"
+},
+{
+  "uuid": "23d990c0-46af-11e7-83ff-00155d026416",
+  "name": "Армавир",
+  "slug": "armavir"
+},
+{
+  "uuid": "6af74c99-5ce8-11e8-80f0-00155d2fc707",
+  "name": "Архипо-Осиповка с.",
+  "slug": "arkhipo-osipovka-s"
+},
+{
+  "uuid": "0a952d9d-46b0-11e7-83ff-00155d026416",
+  "name": "Белореченск",
+  "slug": "belorechensk"
+},
+{
+  "uuid": "9cd52d9b-000d-11f0-bba5-3cecef676e4f",
+  "name": "Брюховецкая",
+  "slug": "bryukhoveckaya"
+},
+{
+  "uuid": "1273cc5c-1361-11ef-bb9c-3cecef676e4f",
+  "name": "Варениковская ст-ца",
+  "slug": "varenikovskaya-st-ca"
+},
+{
+  "uuid": "66625b69-719e-11ee-bb95-3cecef676e4f",
+  "name": "Витязево с.",
+  "slug": "vityazevo-s"
+},
+{
+  "uuid": "7188bf0b-6b63-11eb-80cd-00155d039009",
+  "name": "Воронеж",
+  "slug": "voronezh"
+},
+{
+  "uuid": "68c409f0-d7d3-11ea-8104-00155d052b02",
+  "name": "Выселки ст-ца",
+  "slug": "vyselki-st-ca"
+},
+{
+  "uuid": "bb83b39a-46af-11e7-83ff-00155d026416",
+  "name": "Геленджик",
+  "slug": "gelendzhik"
+},
+{
+  "uuid": "4813fbc4-46af-11e7-83ff-00155d026416",
+  "name": "Горячий ключ",
+  "slug": "goryachiy-klyuch"
+},
+{
+  "uuid": "b78acc1f-e587-11ed-badf-3cecef676e4f",
+  "name": "Гулькевичи",
+  "slug": "gulkevichi"
+},
+{
+  "uuid": "b9436d56-a95c-11e9-80f8-00155d2fc707",
+  "name": "Джубга",
+  "slug": "dzhubga"
+},
+{
+  "uuid": "65e2983b-d801-11eb-80d3-00155d03900a",
+  "name": "Евпатория",
+  "slug": "evpatoriya"
+},
+{
+  "uuid": "68c27af3-46b1-11e7-83ff-00155d026416",
+  "name": "Ейск",
+  "slug": "eysk"
+},
+{
+  "uuid": "7a3d96d4-46b1-11e7-83ff-00155d026416",
+  "name": "Кабардинка с.",
+  "slug": "kabardinka-s"
+},
+{
+  "uuid": "61ba57f9-8102-11e8-80f0-00155d2fc707",
+  "name": "Каневская ст-ца",
+  "slug": "kanevskaya-st-ca"
+},
+{
+  "uuid": "fb131b9c-1c05-11ea-8100-00155d2fc707",
+  "name": "Керчь",
+  "slug": "kerch"
+},
+{
+  "uuid": "9a12b886-46b1-11e7-83ff-00155d026416",
+  "name": "Кореновск",
+  "slug": "korenovsk"
+},
+{
+  "uuid": "4a70f9e0-46ae-11e7-83ff-00155d026416",
+  "name": "Краснодар",
+  "slug": "krasnodar"
+},
+{
+  "uuid": "54262d02-46b1-11e7-83ff-00155d026416",
+  "name": "Кропоткин",
+  "slug": "kropotkin"
+},
+{
+  "uuid": "5a727244-46b2-11e7-83ff-00155d026416",
+  "name": "Крымск",
+  "slug": "krymsk"
+},
+{
+  "uuid": "7f2b2f96-46b2-11e7-83ff-00155d026416",
+  "name": "Курганинск",
+  "slug": "kurganinsk"
+},
+{
+  "uuid": "4ade464e-5d85-11e8-80f0-00155d2fc707",
+  "name": "Кущевская ст-ца",
+  "slug": "kushchevskaya-st-ca"
+},
+{
+  "uuid": "5d7ff1be-46b1-11e7-83ff-00155d026416",
+  "name": "Лабинск",
+  "slug": "labinsk"
+},
+{
+  "uuid": "0f288f40-5d8c-11e8-80f0-00155d2fc707",
+  "name": "Лазаревский р-н",
+  "slug": "lazarevskiy-r-n"
+},
+{
+  "uuid": "cba441ca-80fd-11e8-80f0-00155d2fc707",
+  "name": "Ленинградская ст-ца",
+  "slug": "leningradskaya-st-ca"
+},
+{
+  "uuid": "c43b3efa-46af-11e7-83ff-00155d026416",
+  "name": "Майкоп",
+  "slug": "maykop"
+},
+{
+  "uuid": "396df2b5-7b2b-11eb-80cd-00155d039009",
+  "name": "Москва",
+  "slug": "moskva"
+},
+{
+  "uuid": "a441ae20-c70a-11ed-bab4-3cecef676e4f",
+  "name": "Мостовской пгт",
+  "slug": "mostovskoy-pgt"
+},
+{
+  "uuid": "d419ef51-5d86-11e8-80f0-00155d2fc707",
+  "name": "Новомихайловский пгт",
+  "slug": "novomikhaylovskiy-pgt"
+},
+{
+  "uuid": "b254dd4e-46af-11e7-83ff-00155d026416",
+  "name": "Новороссийск",
+  "slug": "novorossiysk"
+},
+{
+  "uuid": "41f4d50e-5cc4-11e8-80f0-00155d2fc707",
+  "name": "Новочеркасск",
+  "slug": "novocherkassk"
+},
+{
+  "uuid": "84d08f31-95da-11ef-bba5-3cecef676e4f",
+  "name": "Ольгинка с.",
+  "slug": "olginka-s"
+},
+{
+  "uuid": "56f5ce86-7fb7-11ea-8102-00155d05c408",
+  "name": "Павловская ст-ца",
+  "slug": "pavlovskaya-st-ca"
+},
+{
+  "uuid": "3c68ab08-7fb7-11ea-8102-00155d05c408",
+  "name": "Приморско-Ахтарск",
+  "slug": "primorsko-akhtarsk"
+},
+{
+  "uuid": "878a9eb4-46b2-11e7-83ff-00155d026416",
+  "name": "Ростов-на-Дону",
+  "slug": "rostov-na-donu"
+},
+{
+  "uuid": "899d0140-1c10-11ef-bb9c-3cecef676e4f",
+  "name": "Саки",
+  "slug": "saki"
+},
+{
+  "uuid": "71627167-c28c-11ea-8102-00155d05c408",
+  "name": "Севастополь",
+  "slug": "sevastopol"
+},
+{
+  "uuid": "c2807f87-46b1-11e7-83ff-00155d026416",
+  "name": "Северская ст-ца",
+  "slug": "severskaya-st-ca"
+},
+{
+  "uuid": "e8240a82-1c05-11ea-8100-00155d2fc707",
+  "name": "Симферополь",
+  "slug": "simferopol"
+},
+{
+  "uuid": "389e64c5-46b1-11e7-83ff-00155d026416",
+  "name": "Славянск-на-Кубани",
+  "slug": "slavyansk-na-kubani"
+},
+{
+  "uuid": "985b3eea-46b4-11e7-83ff-00155d026416",
+  "name": "Сочи",
+  "slug": "sochi"
+},
+{
+  "uuid": "d36d7325-7fc0-11ef-bba3-3cecef676e4f",
+  "name": "Судак",
+  "slug": "sudak"
+},
+{
+  "uuid": "57fda272-46b3-11e7-83ff-00155d026416",
+  "name": "Таганрог",
+  "slug": "taganrog"
+},
+{
+  "uuid": "aa347224-46b2-11e7-83ff-00155d026416",
+  "name": "Темрюк",
+  "slug": "temryuk"
+},
+{
+  "uuid": "878a9eb5-46b2-11e7-83ff-00155d026416",
+  "name": "Тимашевск",
+  "slug": "timashevsk"
+},
+{
+  "uuid": "ccbcbbc5-46b1-11e7-83ff-00155d026416",
+  "name": "Тихорецк",
+  "slug": "tikhoreck"
+},
+{
+  "uuid": "21a1fa1b-46b0-11e7-83ff-00155d026416",
+  "name": "Туапсе",
+  "slug": "tuapse"
+},
+{
+  "uuid": "054b199f-3746-11ee-bb53-3cecef676e4f",
+  "name": "Тула",
+  "slug": "tula"
+},
+{
+  "uuid": "2c76d20f-46b0-11e7-83ff-00155d026416",
+  "name": "Усть-Лабинск",
+  "slug": "ust-labinsk"
+},
+{
+  "uuid": "9bd5a232-d7d5-11ea-8104-00155d052b02",
+  "name": "Феодосия",
+  "slug": "feodosiya"
+},
+{
+  "uuid": "257acf8a-4016-11ef-bb9f-3cecef676e4f",
+  "name": "Хадыженск",
+  "slug": "khadyzhensk"
+},
+{
+  "uuid": "a4a3fed4-9da7-11ef-bba5-3cecef676e4f",
+  "name": "Холмская с.",
+  "slug": "kholmskaya-s"
+},
+{
+  "uuid": "22a48d51-4adc-11e8-80ee-00155d2fc707",
+  "name": "Шахты",
+  "slug": "shakhty"
+},
+{
+  "uuid": "593c9c80-c28c-11ea-8102-00155d05c408",
+  "name": "Ялта",
+  "slug": "yalta"
+}
+]
